@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 6be13237c85f340ef94c700c95bd2438
+  - enabled: 1
+    path: Assets/Scenes/Setsumei.unity
+    guid: b5aeb57a2bd884ee5b78e200f20398c2
+  - enabled: 1
+    path: Assets/Scenes/GameStage.unity
+    guid: 0b180728b15234ff5a1af703b10a9dc7
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: f883502666fce416ea35b3baada25e3f
+  m_configObjects: {}
